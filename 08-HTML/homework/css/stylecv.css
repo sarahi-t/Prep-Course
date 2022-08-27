@@ -33,19 +33,7 @@
     align-self: center;
 }
 
-.flexbox-item-3{
-    min-width: 35em;
-}
-
-.flexbox-item-4{
-    min-width: 35em;
-}
-
-.flexbox-item-5{
-    min-width: 35em;
-}
-
-.flexbox-item-6{
+.flexbox-item-x{
     min-width: 35em;
 }
 
